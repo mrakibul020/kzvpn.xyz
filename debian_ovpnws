@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
-HOST='174.138.184.18';
-USER='rfplusvi_kzvpn';
-PASS='rfplusvi_kzvpn';
-DBNAME='rfplusvi_kzvpn';
+HOST='104.218.54.194';
+USER='raandroi_kzvpn';
+PASS='raandroi_kzvpn';
+DBNAME='raandroi_kzvpn';
 PORT_TCP='1194';
 PORT_UDP='53';
 timedatectl set-timezone Asia/Riyadh
